@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0510"
+   LastUpgradeVersion = "0600"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CB716D041965847F0088FEE4"
+               BlueprintIdentifier = "CB2A9D6D1965855900D01D88"
                BuildableName = "OneDay.app"
                BlueprintName = "OneDay"
                ReferencedContainer = "container:OneDay.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CB716D281965847F0088FEE4"
+               BlueprintIdentifier = "CB2A9D821965855900D01D88"
                BuildableName = "OneDayTests.xctest"
                BlueprintName = "OneDayTests"
                ReferencedContainer = "container:OneDay.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CB716D041965847F0088FEE4"
+            BlueprintIdentifier = "CB2A9D6D1965855900D01D88"
             BuildableName = "OneDay.app"
             BlueprintName = "OneDay"
             ReferencedContainer = "container:OneDay.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CB716D041965847F0088FEE4"
+            BlueprintIdentifier = "CB2A9D6D1965855900D01D88"
             BuildableName = "OneDay.app"
             BlueprintName = "OneDay"
             ReferencedContainer = "container:OneDay.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CB716D041965847F0088FEE4"
+            BlueprintIdentifier = "CB2A9D6D1965855900D01D88"
             BuildableName = "OneDay.app"
             BlueprintName = "OneDay"
             ReferencedContainer = "container:OneDay.xcodeproj">
